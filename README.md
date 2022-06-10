@@ -41,4 +41,3 @@ alt="GaganReddyin" /></p>
 
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=GaganReddyin&show_icons=true&locale=en" alt="GaganReddyin" /></p>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=GaganReddyin&" alt="GaganReddyin" /></p>
