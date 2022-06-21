@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gaganreddy7](https://github.com/gaganreddy7)
+- 👨‍💻 All of my projects are available at [https://github.com/GaganReddyin](https://github.com/GaganReddyin7)
 
 - 📫 How to reach me **mallamgagan.reddy2020@vitstudent.ac.in**
 
