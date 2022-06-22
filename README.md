@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GaganReddyin" alt="GaganReddyin" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/GaganThoughts" target="blank"><img src="https://img.shields.io/twitter/follow/GaganThoughts?logo=twitter&style=for-the-badge" alt="GaganThoughts" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Gagantwts" target="blank"><img src="https://img.shields.io/twitter/follow/GaganThoughts?logo=twitter&style=for-the-badge" alt="Gagantwts" /></a> </p>
 
 
 - 🔭 I’m currently working on **Cloud Application**
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/GaganThoughts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GaganThoughts" height="30" width="40" /></a>
+<a href="https://twitter.com/Gagantwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GaganThoughts" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gagan-reddy-6365411ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagan reddy" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gaganthoughts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaganthoughts" height="30" width="40" /></a>
   
