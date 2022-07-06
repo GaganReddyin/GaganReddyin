@@ -3,11 +3,9 @@
 
 <h3 align="center">A passionate programmer</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/{GaganReddyin}/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GaganReddyin&label=Profile%20views&color=0e75b6&style=flat" alt="GaganReddyin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GaganReddyin" alt="GaganReddyin" /></a> </p>
-
-https://github-profile-trophy.vercel.app/?GaganReddyin=ryo-ma&theme=algolia
 
 <p align="left"> <a href="https://twitter.com/Gagantwts" target="blank"><img src="https://img.shields.io/twitter/follow/Gagantwts?logo=twitter&style=for-the-badge" alt="Gagantwts" /></a> </p>
 
