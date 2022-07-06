@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate programmer</h3>
 
-https://github-profile-trophy.vercel.app/?GaganReddyine=ryo-ma&theme=algolia
+https://github-profile-trophy.vercel.app/?GaganReddyin=ryo-ma&theme=algolia
 
 ![Visitor Count](https://profile-counter.glitch.me/{GaganReddyin}/count.svg)
 
