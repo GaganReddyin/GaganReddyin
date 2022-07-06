@@ -1,11 +1,11 @@
 
 # Hi there, I'm Gagan!👋
 
-https://github-profile-trophy.vercel.app/?GaganReddyin=ryo-ma&theme=algolia
-
 <h3 align="center">A passionate programmer</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{GaganReddyin}/count.svg)
+
+https://github-profile-trophy.vercel.app/?GaganReddyin=ryo-ma&theme=algolia
 
 <p align="left"> <a href="https://twitter.com/Gagantwts" target="blank"><img src="https://img.shields.io/twitter/follow/Gagantwts?logo=twitter&style=for-the-badge" alt="Gagantwts" /></a> </p>
 
