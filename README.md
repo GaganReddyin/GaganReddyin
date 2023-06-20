@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GaganReddyin" alt="GaganReddyin" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Gagantwts" target="blank"><img src="https://img.shields.io/twitter/follow/Gagantwts?logo=twitter&style=for-the-badge" alt="Gagantwts" /></a> </p>
+<p align="left"> <a href="https://twitter.com/GaganReddyM" target="blank"><img src="https://img.shields.io/twitter/follow/GaganReddyM?logo=twitter&style=for-the-badge" alt="GaganReddyM" /></a> </p>
 
 
 - 🔭 I’m currently working on **Cloud Application**
