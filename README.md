@@ -10,17 +10,17 @@
 <p align="left"> <a href="https://twitter.com/GaganReddyM" target="blank"><img src="https://img.shields.io/twitter/follow/GaganReddyM?logo=twitter&style=for-the-badge" alt="GaganReddyM" /></a> </p>
 
 
-- 🔭 I’m currently working on **Cloud Application**
+- 🔭 I’m currently working on **Business development**
 
-- 🌱 I’m currently learning **GCP, React JS**
+- 🌱 I’m currently learning **Java , DSA**
 
-- 👯 I’m looking to collaborate on **Cloud Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GaganReddyin](https://github.com/GaganReddyin7)
 
 - 📫 How to reach me **mallamgagan.reddy2020@vitstudent.ac.in**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gagan-reddy-6365411ba/](https://www.linkedin.com/in/gagan-reddy-6365411ba/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/gaganreddymallam/](https://www.linkedin.com/in/gaganreddymallam/)
 
 
 <h3 align="left">Connect with me:</h3>
