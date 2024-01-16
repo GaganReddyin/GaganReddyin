@@ -10,13 +10,13 @@
 <p align="left"> <a href="https://twitter.com/GaganReddyM" target="blank"><img src="https://img.shields.io/twitter/follow/GaganReddyM?logo=twitter&style=for-the-badge" alt="GaganReddyM" /></a> </p>
 
 
-- 🔭 I’m currently working on **Business development**
+- 🔭 I’m currently working on **Java projects**
 
 - 🌱 I’m currently learning **Java , DSA**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GaganReddyin](https://github.com/GaganReddyin7)
+- 👨‍💻 All of my projects are available at [https://github.com/GaganReddyin](https://github.com/GaganReddyin)
 
 - 📫 How to reach me **mallamgagan.reddy2020@vitstudent.ac.in**
 
@@ -35,8 +35,10 @@
 # Languages and Tools
 
 <h3 align="left"> Tools:</h3>
+<div>
+   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> <br>
+</div>
 
- <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Google%20Bard-886FBF?style=for-the-badge&logo=googlebard&logoColor=fff" /> 
 
 
