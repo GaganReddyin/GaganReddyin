@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gaganreddym" target="blank"><img src="https://img.shields.io/twitter/follow/gaganreddym?logo=twitter&style=for-the-badge" alt="gaganreddym" /></a> </p>
 
-- 🔭 I’m currently working on **NLP,LLM,GEN AI**
+- 🔭 I’m currently working on **NLP, LLM, GEN AI**
 
 - 🌱 I’m currently learning **Java,DSA**
 
