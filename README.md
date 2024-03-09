@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagan Reddy Mallam</h1>
-<h3 align="center">A passionate SE Student from India</h3>
+<h3 align="center">Emerging Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganreddyin&label=Profile%20views&color=0e75b6&style=flat" alt="gaganreddyin" /> </p>
 
