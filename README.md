@@ -7,19 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/gaganreddym" target="blank"><img src="https://img.shields.io/twitter/follow/gaganreddym?logo=twitter&style=for-the-badge" alt="gaganreddym" /></a> </p>
 
-- 🔭 I’m currently working on **NLP, LLM, GEN AI**
+- 🔭 I’m currently working on **LLM'S, GEN AI**
 
-- 🌱 I’m currently learning **Java,DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/GaganReddyin](https://github.com/GaganReddyin)
-
-- 📝 I regularly write articles on [https://gaganreddyblog.blogspot.com/](https://gaganreddyblog.blogspot.com/)
-
-- 📫 How to reach me **mallamgagan.reddy2020@vitstudent.ac.in**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/gaganreddymallam/](https://www.linkedin.com/in/gaganreddymallam/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
