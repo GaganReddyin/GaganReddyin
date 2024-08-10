@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganreddyin&label=Profile%20views&color=0e75b6&style=flat" alt="gaganreddyin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaganreddyin" alt="gaganreddyin" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/gaganreddym" target="blank"><img src="https://img.shields.io/twitter/follow/gaganreddym?logo=twitter&style=for-the-badge" alt="gaganreddym" /></a> </p>
 
 - 🔭 I’m currently working on **LLM'S, GEN AI**
