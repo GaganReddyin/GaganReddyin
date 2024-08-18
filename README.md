@@ -11,10 +11,6 @@
 - 🤔 I’m looking for help with NLP
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gaganreddymallam/)
 - ⚡ Fun fact: HISTORY REPEAT ITSELF
-<h3> Recent Activity </h3>
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 <hr>
 
 <h3 align="center">Visitor Count</h3>
@@ -34,7 +30,7 @@
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaganReddyin&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=GaganReddyin&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
 </table>
