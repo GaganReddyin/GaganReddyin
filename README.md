@@ -23,19 +23,6 @@
 
 <hr>
 # Github Activity📊:
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=GaganReddyin&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganReddyin&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaganReddyin&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-  </td>
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-  </tr>
-</table>
-
-
 
 <table>
   <tr>
@@ -44,7 +31,7 @@
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaganReddyin&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-<td><img src="https://github-readme-stats.vercel.app/api/GaganReddyin?username=mindwrapper&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >  </td>
+<td><img src="https://github-readme-stats.vercel.app/api//wakatime?username=mindwrapper&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >  </td>
   </tr>
 </table>
 
