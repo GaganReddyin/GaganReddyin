@@ -17,7 +17,7 @@
 <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{GaganReddyin}/count.svg">
   
-  ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg)  
+  ![VisitorCount](https://profile-counter.glitch.me/{GaganReddyin}/count.svg)  
   
 </a>
 
