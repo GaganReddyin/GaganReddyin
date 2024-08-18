@@ -44,8 +44,7 @@
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaganReddyin&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=GaganReddyin&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
-  </td>
+<td><img src="https://github-readme-stats.vercel.app/api/GaganReddyin?username=mindwrapper&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >  </td>
   </tr>
 </table>
 
