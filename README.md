@@ -11,18 +11,14 @@
 - 🤔 I’m looking for help with NLP
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gaganreddymallam/)
 - ⚡ Fun fact: HISTORY REPEAT ITSELF
+  
 <hr>
-
 <h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{Apurva-tech}/count.svg">
-  
+<a align="center" href="https://profile-counter.glitch.me/{Apurva-tech}/count.svg"> 
   ![VisitorCount](https://profile-counter.glitch.me/{GaganReddyin}/count.svg)  
-  
 </a>
-
 <hr>
 # Github Activity📊:
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=GaganReddyin&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
@@ -40,6 +36,3 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaganReddyin&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr>
 </table>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaganreddyin&show_icons=true&locale=en" alt="gaganreddyin" /></p>
