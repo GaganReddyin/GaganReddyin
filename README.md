@@ -22,12 +22,13 @@
 </a>
 
 <hr>
-# **GitHub Activity 📊**
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaganReddyin&theme=tokyonight)
 
 # **Productivity Stats 📈**
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaganReddyin&theme=monokai)
 
+# **GitHub Activity 📊**
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaganReddyin&theme=tokyonight)
 
