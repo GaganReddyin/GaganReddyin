@@ -23,16 +23,11 @@
 
 <hr>
 # **GitHub Activity 📊**
-<table>
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaganReddyin&theme=tokyonight"  display=block width=100% height=auto alt="GitHub Streak Stats" ></td>
-   </tr>
-</table>
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaganReddyin&theme=tokyonight)
 
 # **Productivity Stats 📈**
-<table>
-   <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaganReddyin&theme=monokai"  display=block width=100% height=auto alt="GitHub Profile Summary" ></td>
-   </tr>
-</table>
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaganReddyin&theme=monokai)
+
 
