@@ -1,5 +1,4 @@
-Hey! 👋  
-
+Hey! 
 I am **_Gagan Reddy_** from India. ✌
 
  
