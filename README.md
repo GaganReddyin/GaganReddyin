@@ -1,6 +1,4 @@
 Hey! 
-I am *Gagan Reddy* from India. ✌
-
  
 |  Stats      | Langs           | Streak  |
 |:-------------:|:-------------:|:-----:|
