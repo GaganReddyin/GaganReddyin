@@ -6,6 +6,7 @@ Hey!
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=GaganReddyin&theme=dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaganReddyin&theme=tokyonight)
 
 
 
