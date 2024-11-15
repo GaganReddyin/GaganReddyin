@@ -6,5 +6,13 @@ Hey!
 
 [![Gagan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GaganReddyin&layout=compact&theme=dark&title_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)](https://wakatime.com/@GaganReddyin)
 
+<a href="https://github.com/GaganReddyin/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GaganReddyin&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/GaganReddyin?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GaganReddyin&layout=compact&langs_count=8&card_width=320&title_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D&hide_border=true" />
+</a>
+
+
 
 
