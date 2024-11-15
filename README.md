@@ -16,3 +16,17 @@ Hey!
 
 
 
+<a href="https://github.com/GaganReddyin/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GaganReddyin&repo=github-readme-stats&title_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D&hide_border=true" />
+</a>
+<a href="https://github.com/GaganReddyin/LeetCode-Comparator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GaganReddyin&repo=LeetCode-Comparator&title_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D&hide_border=true" />
+</a>
+
+
+
+
+
+
+
+
