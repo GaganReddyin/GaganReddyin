@@ -11,8 +11,8 @@
 
 
 
-### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=java,python,html,css,javascript)](https://skillicons.dev)
+### Tech Stack 🛠 
+[![](https://skillicons.dev/icons?i=java,python,mysql,netlify,vercel,vscode,git,github)](https://skillicons.dev)
 
 ### Databases and Cloud Platforms 🛠 
 [![My Databases and Cloud](https://skillicons.dev/icons?i=mysql,netlify,render,vercel,)](https://skillicons.dev)
