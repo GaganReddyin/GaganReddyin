@@ -1,3 +1,7 @@
+<br/>
+<h2 align="center"> Github Statistics 📈</h2>
+
+
 
 |  Stats      | Langs           | Streak  |
 |:-------------:|:-------------:|:-----:|
@@ -5,8 +9,7 @@
 
 
 
-<br/>
-<h2 align="center"> Github Statistics 📈</h2>
+
 
 ### Languages 🛠 
 [![My Programming Languages](https://skillicons.dev/icons?i=java,python,html,css,javascript)](https://skillicons.dev)
