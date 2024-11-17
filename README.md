@@ -8,7 +8,7 @@
 ### Tech Stack 🛠 
 [![](https://skillicons.dev/icons?i=java,python,mysql,vercel,idea,vscode,git,github,latex)](https://skillicons.dev)
 
-![image]({https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white})
+![chatgpt]({https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white})
 
 
 
