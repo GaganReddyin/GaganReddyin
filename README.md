@@ -7,6 +7,7 @@
 
 ### Tech Stack 🛠 
 [![](https://skillicons.dev/icons?i=java,python,mysql,netlify,vercel,vscode,git,github)](https://skillicons.dev)
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 
 
 
