@@ -4,6 +4,34 @@
 
 
 
+### Languages 🛠 
+[![My Programming Languages](https://skillicons.dev/icons?i=java,python,html,css,javascript)](https://skillicons.dev)
+
+### Databases and Cloud Platforms 🛠 
+[![My Databases and Cloud](https://skillicons.dev/icons?i=mysql,netlify,render,vercel,)](https://skillicons.dev)
+
+### IDEs and Tools
+[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,git,github,)](https://skillicons.dev)
+
+
+---
+
+<br/>
+<h2 align="center"> Github Statistics 📈</h2>
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaganReddyin&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganReddyin&layout=compact&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=GaganReddyin&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</a><br><br>
+
+<!--START_SECTION:waka--
+
+
 
 
 
