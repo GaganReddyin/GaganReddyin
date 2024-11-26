@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! I'm <a href='https://www.linkedin.com/in/gaganreddymallam/'>Gagan Reddy</a> </h1> 
+<h1 align="center">Hello There! I'm <a href='https://www.linkedin.com/in/gaganreddymallam/'>Gagan Reddy</a> </h1>  
 
 ### Tech Stack 🛠 
 [![](https://skillicons.dev/icons?i=java,python,mysql,vercel,idea,vscode,git,github,latex)](https://skillicons.dev) 
