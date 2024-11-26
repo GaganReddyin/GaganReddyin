@@ -10,9 +10,7 @@
 [![](https://skillicons.dev/icons?i=java,python,mysql,vercel,idea,vscode,git,github,latex)](https://skillicons.dev) 
 
 
-<div align="center">
-  ### My Contributions 🐍 
-  <br>
+<div align="Left">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GaganReddyin/GaganReddyin/output/github-contribution-grid-snake.svg" />
 </div>
 
