@@ -8,7 +8,7 @@
 
 ### Tech Stack 🛠 
 [![](https://skillicons.dev/icons?i=java,python,mysql,vercel,idea,vscode,git,github,latex)](https://skillicons.dev) 
-<hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -17,7 +17,7 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+
 
 
 
