@@ -1,3 +1,10 @@
+- 📫 Reach me at: [mallamgagan.reddy2020@vitstudent.ac.in](mailto:mallamgagan.reddy2020@vitstudent.ac.in)
+
+
+
+
+
+
 ### Github Statistics 🚀 
  
 |   Tracker   |       Lang         |    Streak    | 
