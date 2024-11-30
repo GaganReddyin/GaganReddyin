@@ -1,5 +1,3 @@
-### Welcome to My GitHub :)
-
 >"History repeats itself-first as tragedy, second as farce."
 >In software engineering, I embrace this cycle, turning failures into lessons and experiments into innovation.
 
