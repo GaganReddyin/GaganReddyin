@@ -1,7 +1,8 @@
 ### Welcome to My GitHub :)
-> "History repeats itself—first as tragedy, second as farce."  
-> In software engineering, I embrace this cycle, turning failures into lessons and experiments into innovation.
 > 
+"History repeats itself-first as tragedy, second as farce."
+In software engineering, I embrace this cycle, turning failures into lessons and experiments into innovation.
+
 ### 📫 Reach me at: [mallamgagan.reddy2020@vitstudent.ac.in](mailto:mallamgagan.reddy2020@vitstudent.ac.in)
 
 
