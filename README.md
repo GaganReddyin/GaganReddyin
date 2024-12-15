@@ -2,7 +2,7 @@
 ### 📫 Reach me at: [mallamgagan.reddy2020@vitstudent.ac.in](mailto:mallamgagan.reddy2020@vitstudent.ac.in)
 
 ### Tech Stack 🛠     
-[![](https://skillicons.dev/icons?i=java,python,mysql,vercel,idea,vscode,git,github,latex)](https://skillicons.dev)   
+[![](https://skillicons.dev/icons?i=java,python,mysql,vercel,idea,vscode,git,github,latex)](https://skillicons.dev)    
     
 ### Github Statistics 🚀    
  
